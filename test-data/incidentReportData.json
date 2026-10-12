@@ -1,0 +1,8 @@
+{
+  "accident": {
+    "time": "10:00"
+  },
+  "injury": {
+    "incidentType": "Motor vehicle with injuries"
+  }
+}

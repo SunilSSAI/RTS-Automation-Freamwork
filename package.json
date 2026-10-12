@@ -1,0 +1,29 @@
+{
+  "name": "rts-playwright-framework",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript Page Object Model (POM) Framework for RTS Fleet",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:chrome": "npx playwright test --project=chrome --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:debug": "npx playwright test --debug",
+    "report": "npx playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "typescript",
+    "pom",
+    "automation",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.0",
+    "dotenv": "^16.4.7",
+    "typescript": "^5.7.2"
+  }
+}

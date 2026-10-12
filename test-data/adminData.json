@@ -1,0 +1,9 @@
+{
+  "newAdmin": {
+    "name": "Automation Admin Check",
+    "phoneNumber": "5551234567",
+    "email": "automation.admin@example.test",
+    "stationCode": "61XX",
+    "password": "Test@12345"
+  }
+}

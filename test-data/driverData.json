@@ -1,0 +1,9 @@
+{
+  "newDriver": {
+    "name": "Taylor Morgan",
+    "transporterId": "AUTO0000000001",
+    "stationCode": "61XX",
+    "email": "driver.automation@example.test",
+    "phoneNumber": "5551234567"
+  }
+}

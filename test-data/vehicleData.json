@@ -1,0 +1,15 @@
+{
+  "newVehicle": {
+    "vehicleNumber": "VEH9876",
+    "vin": "1HGCR2F83HA001234",
+    "plateNumber": "DL01AB1234",
+    "registeredState": "CA",
+    "vendor": "LMD Vendor",
+    "year": "2024"
+  },
+  "invalidVehicle": {
+    "vehicleNumber": "VEH-999#",
+    "vin": "INVALID123",
+    "plateNumber": ""
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "validUser": {
+    "email": "mehta@gmail.com",
+    "password": "Test@1234"
+  },
+  "invalidUser": {
+    "email": "mehta@gmail.com",
+    "password": "WrongPassword999"
+  },
+  "nonExistentUser": {
+    "email": "nonexistent_user@lmdmax.com",
+    "password": "Test@1234"
+  },
+  "emptyCredentials": {
+    "email": "",
+    "password": ""
+  }
+}
